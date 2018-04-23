@@ -11,18 +11,18 @@
 <body>
     <h1>Início do Código PHP</h1>
 <?php
-    // Inicio da aula de PHP
-    /*
-    Comentarios de várias linhas
+        // Inicio da aula de PHP
+        /*
+        Comentarios de várias linhas
     */
     $nome = "Gustavo";
     $sobrenome = "Santanna";
     $idade = 43;
 
     echo "Meu nome completo é: 
-    ".$nome. " ".$sobrenome. 
-    "e tenho". " ".$idade. 
-    " ". "anos de idade.";
+        " . $nome . " " . $sobrenome .
+        "e tenho" . " " . $idade .
+        " " . "anos de idade.";
 
 ?>
     
